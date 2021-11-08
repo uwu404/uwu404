@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning javascript libraries
 - 💞️ I’m looking to collaborate on react projects
-- 📫 My Discord tag: 0x9C#0001
+- 📫 My Discord tag: 0x9C#7631
 
 <!---
 uwu404/uwu404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
