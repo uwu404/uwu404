@@ -1,1 +1,4 @@
-***currently programming a flying robot that can shoot laser***
+- cool javascript stuff
+- currently making a discord clone
+- advanced js shenanigans
+- my discord: **Thugzz#3248**
