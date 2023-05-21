@@ -1,4 +1,1 @@
-- cool javascript stuff
-- currently making a discord clone
-- advanced js shenanigans
-- my discord: **Thugzz#3248**
+cool javascript stuff
